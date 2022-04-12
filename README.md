@@ -1,3 +1,3 @@
 # Hello-World
 My first project
-I aminterested in teaching Git to my students
+I am interested in teaching Git to my students
